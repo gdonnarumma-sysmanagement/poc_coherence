@@ -36,6 +36,6 @@ Applicazione di esempio Todo List sviluppata con Spring Boot e Oracle Coherence,
 
 ---
 
-Nota:
-Questa applicazione è stata sviluppata come demo e test per esplorare e comprendere l’uso di Oracle Coherence con Spring Boot.
-Non è pensata per essere utilizzata in ambienti di produzione.
+🚨 **ATTENZIONE:**  
+Questa applicazione è stata sviluppata come **demo e test** per esplorare e comprendere l’uso di Oracle Coherence con Spring Boot.  
+**❌ NON è pensata per ambienti di produzione senza opportune revisioni, miglioramenti di sicurezza e scalabilità.**
